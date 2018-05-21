@@ -1,0 +1,1428 @@
+﻿Log file open, 05/21/18 17:01:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Movement
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1513848599) SRandInit(1513848599).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208680
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DatasmithCADImporter/Binaries/Win64/UE4Editor-DatasmithCADImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DatasmithImporter/Binaries/Win64/UE4Editor-DatasmithImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/DatasmithImporter/Binaries/Win64/UE4Editor-DatasmithCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.21-15.01.14:584][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.21-15.01.14:584][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.21-15.01.14:680][  0]LogInit: Computer: KITN-K4507-11
+[2018.05.21-15.01.14:680][  0]LogInit: User: frejo851
+[2018.05.21-15.01.14:680][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.21-15.01.14:680][  0]LogInit: High frequency timer resolution =3.604931 MHz
+[2018.05.21-15.01.14:680][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.21-15.01.14:680][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.21-15.01.14:681][  0]LogMemory: Process Physical Memory: 273.96 MB used, 273.96 MB peak
+[2018.05.21-15.01.14:681][  0]LogMemory: Process Virtual Memory: 271.86 MB used, 271.86 MB peak
+[2018.05.21-15.01.14:681][  0]LogMemory: Physical Memory: 8552.92 MB used,  24131.25 MB free, 32684.18 MB total
+[2018.05.21-15.01.14:681][  0]LogMemory: Virtual Memory: 679.74 MB used,  24131.25 MB free, 134217728.00 MB total
+[2018.05.21-15.01.14:958][  0]LogInit: Using OS detected language (en-US).
+[2018.05.21-15.01.14:958][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.21-15.01.14:962][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.21-15.01.15:341][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.21-15.01.15:720][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.21-15.01.15:805][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.05.21-15.01.15:805][  0]LogD3D11RHI:       8096/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.21-15.01.15:813][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.21-15.01.15:813][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.21-15.01.15:813][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.21-15.01.15:831][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.21-15.01.15:831][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.21-15.01.15:831][  0]LogWindows: EnumDisplayDevices:
+[2018.05.21-15.01.15:832][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.05.21-15.01.15:832][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.21-15.01.15:832][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.21-15.01.15:833][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.05.21-15.01.15:833][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.21-15.01.15:833][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.05.21-15.01.15:833][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.21-15.01.15:833][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.21-15.01.15:833][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.05.21-15.01.15:905][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.21-15.01.15:929][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.21-15.01.15:975][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (H:/3Dmaze/Mazehere/mazegame/Intermediate/Shaders/WorkingDirectory/15384/).
+[2018.05.21-15.01.15:975][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TEMP.AD.001/AppData/Local/Temp/UnrealShaderWorkingDir/81D20A994FED4FFFBF4B6596B93B4671/'.
+[2018.05.21-15.01.15:975][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.21-15.01.17:317][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.21-15.01.17:453][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.21-15.01.17:545][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.21-15.01.17:637][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.21-15.01.17:729][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.21-15.01.17:819][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.21-15.01.17:903][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.21-15.01.18:011][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.21-15.01.18:091][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.21-15.01.18:173][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.21-15.01.18:257][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.21-15.01.18:348][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.21-15.01.18:615][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.21-15.01.18:766][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.21-15.01.18:960][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.21-15.01.18:960][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.21-15.01.19:043][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.21-15.01.19:107][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.21-15.01.19:243][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.21-15.01.19:333][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.21-15.01.19:437][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.21-15.01.19:520][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.21-15.01.19:602][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.21-15.01.19:685][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.21-15.01.19:685][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.21-15.01.20:448][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.21-15.01.20:545][  0]LogDerivedDataCache: Loaded boot cache 0.10s 69MB C:/Users/TEMP.AD.001/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.21-15.01.20:545][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TEMP.AD.001/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.21-15.01.20:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/3Dmaze/Mazehere/mazegame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.21-15.01.20:547][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.21-15.01.20:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/3Dmaze/Mazehere/mazegame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.21-15.01.20:549][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.21-15.01.20:564][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.21-15.01.20:577][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TEMP.AD.001/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.21-15.01.20:603][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.21-15.01.20:603][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.21-15.01.20:605][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.21-15.01.20:605][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.21-15.01.21:195][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.21-15.01.21:783][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.21-15.01.21:849][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.21-15.01.21:849][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.21-15.01.21:849][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.21-15.01.21:849][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.21-15.01.21:849][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.21-15.01.21:883][  0]LogNetVersion: Movement , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1157801380)
+[2018.05.21-15.01.22:108][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.05.21-15.01.24:992][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 2.073488 seconds
+[2018.05.21-15.01.25:003][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.05.21-15.01.25:003][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.05.21-15.01.25:003][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.21-15.01.25:186][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.21-15.01.27:499][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.05.21-15.01.30:239][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.21-15.01.30:318][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.21-15.01.30:323][  0]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.01.31:795][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.21-15.01.31:849][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2018.05.21-15.01.31:862][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.05.21-15.01.31:874][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2018.05.21-15.01.31:891][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.05.21-15.01.31:916][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.05.21-15.01.31:931][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.05.21-15.01.31:944][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.05.21-15.01.31:958][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.05.21-15.01.32:962][  0]SourceControl: Source control is disabled
+[2018.05.21-15.01.32:962][  0]SourceControl: Source control is disabled
+[2018.05.21-15.01.33:107][  0]SourceControl: Source control is disabled
+[2018.05.21-15.01.33:243][  0]SourceControl: Source control is disabled
+[2018.05.21-15.01.35:052][  0]LogMaterial: Missing cached shader map for material CE_OpaqueMaster, compiling. 
+[2018.05.21-15.01.35:105][  0]LogMaterial: Missing cached shader map for material CE_OpacityMaster, compiling. 
+[2018.05.21-15.01.35:157][  0]LogMaterial: Missing cached shader map for material CE_OpacitySimpleMaster, compiling. 
+[2018.05.21-15.01.35:249][  0]LogMaterial: Missing cached shader map for material CI_OpaqueMaster, compiling. 
+[2018.05.21-15.01.35:297][  0]LogMaterial: Missing cached shader map for material CI_TransparentMaster, compiling. 
+[2018.05.21-15.01.35:647][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2018.05.21-15.01.36:403][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.21-15.01.37:147][  0]LogOcInput: OculusInput pre-init called
+[2018.05.21-15.01.37:786][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.05.21-15.01.37:813][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.05.21-15.01.37:844][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.05.21-15.01.37:939][  0]LogEngine: Initializing Engine...
+[2018.05.21-15.01.37:941][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.21-15.01.37:947][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.05.21-15.01.38:303][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.05.21-15.01.39:219][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.05.21-15.01.39:498][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.05.21-15.01.40:389][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.05.21-15.01.41:313][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.05.21-15.01.41:577][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.05.21-15.01.41:706][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.05.21-15.01.41:737][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.05.21-15.01.41:761][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.05.21-15.01.41:788][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.05.21-15.01.41:814][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.05.21-15.01.41:840][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.05.21-15.01.41:853][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.05.21-15.01.41:878][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.05.21-15.01.41:937][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.05.21-15.01.41:963][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.05.21-15.01.41:999][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.05.21-15.01.42:017][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.05.21-15.01.42:040][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.05.21-15.01.42:183][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.05.21-15.01.42:207][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.05.21-15.01.42:243][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.05.21-15.01.42:266][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.05.21-15.01.42:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.21-15.01.42:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.21-15.01.42:796][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.21-15.01.42:808][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.21-15.01.42:858][  0]LogInit: FAudioDevice initialized.
+[2018.05.21-15.01.42:953][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/TEMP.AD.001/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.21-15.01.42:968][  0]LogInit: Texture streaming: Enabled
+[2018.05.21-15.01.43:271][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.21-15.01.43:661][  0]LogInit: Transaction tracking system initialized
+[2018.05.21-15.01.44:511][  0]BlueprintLog: New page: Editor Load
+[2018.05.21-15.01.47:002][  0]LocalizationService: Localization service is disabled
+[2018.05.21-15.01.49:046][  0]LogConsoleResponse: Display: 
+[2018.05.21-15.01.49:117][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.05.21-15.01.49:148][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.05.21-15.01.49:169][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.05.21-15.01.49:192][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.05.21-15.01.49:215][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.05.21-15.01.49:240][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.05.21-15.01.49:273][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.05.21-15.01.49:297][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.05.21-15.01.49:319][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.05.21-15.01.49:340][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.05.21-15.01.49:362][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.05.21-15.01.49:385][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.05.21-15.01.49:406][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.05.21-15.01.49:475][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.05.21-15.01.49:541][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.05.21-15.01.49:595][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.05.21-15.01.49:652][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.21-15.01.49:652][  0]LogCook: Display: Mobile HDR setting 0
+[2018.05.21-15.01.49:652][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.21-15.01.50:723][  0]LogFileCache: Scanning file cache for directory 'H:/3Dmaze/Mazehere/mazegame/Content/' took 0.17s
+[2018.05.21-15.01.52:846][  0]SourceControl: Source control is disabled
+[2018.05.21-15.01.52:847][  0]Cmd: MAP LOAD FILE="H:/3Dmaze/Mazehere/mazegame/Content/Untitled_1_Auto3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.21-15.01.52:875][  0]LightingResults: New page: Lighting Build
+[2018.05.21-15.01.52:989][  0]MapCheck: New page: Map Check
+[2018.05.21-15.01.52:989][  0]LightingResults: New page: Lighting Build
+[2018.05.21-15.01.58:564][  0]LogTexture: Display: Building textures: mat_pillar_roughness (AutoDXT, 2048X2048)
+[2018.05.21-15.01.58:567][  0]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.05.21-15.01.58:687][  0]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2018.05.21-15.01.58:741][  0]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.05.21-15.01.58:884][  0]LogTexture: Display: Building textures: Seamless-Rock-Wall-2_OCC (AutoDXT, 2048X2048)
+[2018.05.21-15.01.58:884][  0]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2018.05.21-15.01.58:952][  0]LogStaticMesh: Building static mesh Battery...
+[2018.05.21-15.01.59:144][  0]LogTexture: Display: Building textures: Seamless-Rock-Wall-2_SPEC (AutoDXT, 2048X2048)
+[2018.05.21-15.01.59:144][  0]LogStaticMesh: Built static mesh [0.19s] /Game/Blueprints/Models/Battery.Battery
+[2018.05.21-15.01.59:166][  0]LogStaticMesh: Building static mesh facklaklar_Line001...
+[2018.05.21-15.01.59:307][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Blueprints/Models/facklaklar_Line001.facklaklar_Line001
+[2018.05.21-15.01.59:313][  0]LogStaticMesh: Building static mesh Bookshelf...
+[2018.05.21-15.01.59:325][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/Bookshelf.Bookshelf
+[2018.05.21-15.01.59:333][  0]LogStaticMesh: Building static mesh Door...
+[2018.05.21-15.01.59:377][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Blueprints/Models/Door.Door
+[2018.05.21-15.01.59:382][  0]LogStaticMesh: Building static mesh Box_Door...
+[2018.05.21-15.01.59:388][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/Box_Door.Box_Door
+[2018.05.21-15.01.59:388][  0]LogStaticMesh: Building static mesh Cylinder...
+[2018.05.21-15.01.59:392][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Models/Cylinder.Cylinder
+[2018.05.21-15.01.59:393][  0]LogStaticMesh: Building static mesh Door_knob...
+[2018.05.21-15.01.59:427][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Blueprints/Models/Door_knob.Door_knob
+[2018.05.21-15.01.59:430][  0]LogStaticMesh: Building static mesh frame...
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: mat_pillar_normal (BC5, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: mat_pillar_metallic (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: Seamless-Rock-Wall-2_COLOR (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: Seamless-Rock-Wall-2_NRM (BC5, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: mat_pillar_AO (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: mat_pillar_albedo (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: dirt_ground_texture__tileable___2048x2048__by_fabooguy-d7aopi7_SPEC (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: dirt_ground_texture__tileable___2048x2048__by_fabooguy-d7aopi7_OCC (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: dirt_ground_texture__tileable___2048x2048__by_fabooguy-d7aopi7_NRM (BC5, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: dirt_ground_texture__tileable___2048x2048__by_fabooguy-d7aopi7_COLOR (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: frame_R_tga (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: frame_N_tga (BC5, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogTexture: Display: Building textures: frame_C_tga (AutoDXT, 2048X2048)
+[2018.05.21-15.02.31:700][  0]LogStaticMesh: Built static mesh [32.27s] /Game/Blueprints/Models/frame.frame
+[2018.05.21-15.02.31:809][  0]LogStaticMesh: Building static mesh Top_Axe...
+[2018.05.21-15.02.31:820][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/Top_Axe.Top_Axe
+[2018.05.21-15.02.31:822][  0]LogStaticMesh: Building static mesh Blade2_Axe...
+[2018.05.21-15.02.31:830][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/Blade2_Axe.Blade2_Axe
+[2018.05.21-15.02.31:832][  0]LogStaticMesh: Building static mesh Blade3_Axe...
+[2018.05.21-15.02.31:840][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/Blade3_Axe.Blade3_Axe
+[2018.05.21-15.02.31:841][  0]LogStaticMesh: Building static mesh Shaft_Axe...
+[2018.05.21-15.02.31:860][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Models/Shaft_Axe.Shaft_Axe
+[2018.05.21-15.02.31:864][  0]LogStaticMesh: Building static mesh pelaremindre...
+[2018.05.21-15.02.31:936][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Blueprints/Models/pelaremindre.pelaremindre
+[2018.05.21-15.02.31:942][  0]LogStaticMesh: Building static mesh shie_Cylinder001...
+[2018.05.21-15.02.32:072][  0]LogStaticMesh: Built static mesh [0.13s] /Game/Blueprints/Models/shie_Cylinder001.shie_Cylinder001
+[2018.05.21-15.02.32:081][  0]LogStaticMesh: Building static mesh shie_Cylinder002...
+[2018.05.21-15.02.32:090][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/shie_Cylinder002.shie_Cylinder002
+[2018.05.21-15.02.32:092][  0]LogStaticMesh: Building static mesh shie_Cylinder003...
+[2018.05.21-15.02.32:094][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Models/shie_Cylinder003.shie_Cylinder003
+[2018.05.21-15.02.32:095][  0]LogStaticMesh: Building static mesh stenpelare...
+[2018.05.21-15.02.32:102][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/stenpelare.stenpelare
+[2018.05.21-15.02.32:110][  0]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2018.05.21-15.02.32:157][  0]LogMaterial: Missing cached shader map for material Walls, compiling. 
+[2018.05.21-15.02.32:198][  0]LogMaterial: Missing cached shader map for material StonePillar, compiling. 
+[2018.05.21-15.02.32:243][  0]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.05.21-15.02.32:275][  0]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.05.21-15.02.32:363][  0]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.05.21-15.02.32:398][  0]LogMaterial: Missing cached shader map for material Mirror_Mat, compiling. 
+[2018.05.21-15.02.32:445][  0]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.05.21-15.02.32:490][  0]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2018.05.21-15.02.32:543][  0]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2018.05.21-15.02.32:589][  0]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2018.05.21-15.02.32:636][  0]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.05.21-15.02.32:707][  0]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2018.05.21-15.02.32:756][  0]LogAIModule: Creating AISystem for world Untitled_1_Auto3
+[2018.05.21-15.02.32:974][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.21-15.02.33:010][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.21-15.02.33:425][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 414.734ms to complete.
+[2018.05.21-15.02.33:425][  0]LogFileHelpers: Loading map 'Untitled_1_Auto3' took 40.578
+[2018.05.21-15.02.33:507][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.21-15.02.33:730][  0]LogCollectionManager: Loaded 0 collections in 0.016483 seconds
+[2018.05.21-15.02.33:956][  0]LogFileCache: Scanning file cache for directory 'H:/3Dmaze/Mazehere/mazegame/Saved/Collections/' took 0.01s
+[2018.05.21-15.02.33:956][  0]LogFileCache: Scanning file cache for directory 'H:/3Dmaze/Mazehere/mazegame/Content/Developers/frejo851/Collections/' took 0.01s
+[2018.05.21-15.02.33:956][  0]LogFileCache: Scanning file cache for directory 'H:/3Dmaze/Mazehere/mazegame/Content/Collections/' took 0.01s
+[2018.05.21-15.02.33:956][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.21-15.02.33:971][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2386 classes and 530 folders.
+[2018.05.21-15.02.34:155][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.21-15.02.34:693][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.05.21-15.02.34:820][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.05.21-15.02.34:892][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.21-15.02.34:895][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.21-15.02.34:910][  0]LogSlate: Took 0.007993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.21-15.02.35:012][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.05.21-15.02.35:118][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2018.05.21-15.02.35:610][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.05.21-15.02.35:610][  0]LogLoad: (Engine Initialization) Total time: 88.78 seconds
+[2018.05.21-15.02.35:610][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.21-15.02.35:611][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.21-15.02.35:611][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.21-15.02.35:702][  0]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.02.35:704][  0]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/', and we were unable to create a new request.
+[2018.05.21-15.02.35:704][  0]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.02.35:704][  0]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/Developers/frejo851/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.02.35:704][  0]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.02.35:710][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.21-15.02.35:965][  1]LogAssetRegistry: Asset discovery search completed in 73.8793 seconds
+[2018.05.21-15.02.35:968][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.21-15.02.35:968][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2018.05.21-15.02.35:968][  1]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.02.36:039][  1]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Saved/Collections/', and we were unable to create a new request.
+[2018.05.21-15.02.36:040][  1]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/Developers/frejo851/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.02.36:041][  1]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/Developers/frejo851/Collections/', and we were unable to create a new request.
+[2018.05.21-15.02.36:041][  1]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.05.21-15.02.36:042][  1]LogDirectoryWatcher: A directory notification failed for 'H:/3Dmaze/Mazehere/mazegame/Content/Collections/', and we were unable to create a new request.
+[2018.05.21-15.02.36:934][ 13]LogSlate: Took 0.008049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.21-15.02.40:886][121]LogFileCache: Retrieving MD5 hashes for directory 'H:/3Dmaze/Mazehere/mazegame/Content/' took 5.25s
+[2018.05.21-15.06.29:000][972]LogSlate: Took 0.005006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.21-15.06.52:907][849]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.21-15.06.52:933][849]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 H:/3Dmaze/nyasteBokMod.FBX)
+[2018.05.21-15.06.53:033][849]LogFbx: Loading FBX Scene from H:/3Dmaze/nyasteBokMod.FBX
+[2018.05.21-15.06.53:092][849]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.21-15.06.53:094][849]LogFbx: =================================================
+[2018.05.21-15.06.53:094][849]LogFbx: Dumping Node START [Box001] 
+[2018.05.21-15.06.53:094][849]LogFbx: 	Total Deformer Count -955968672.
+[2018.05.21-15.06.53:094][849]LogFbx: 	Attribute () Type (4).
+[2018.05.21-15.06.53:094][849]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.05.21-15.06.53:094][849]LogFbx: Dumping Node END [Box001]
+[2018.05.21-15.06.53:094][849]LogFbx: =================================================
+[2018.05.21-15.06.53:094][849]LogFbx: Dumping Node START [Box001] 
+[2018.05.21-15.06.53:094][849]LogFbx: 	Total Deformer Count -955969064.
+[2018.05.21-15.06.53:094][849]LogFbx: 	Attribute () Type (4).
+[2018.05.21-15.06.53:094][849]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.05.21-15.06.53:094][849]LogFbx: Dumping Node END [Box001]
+[2018.05.21-15.07.35:575][849]LogFbx: =================================================
+[2018.05.21-15.07.35:576][849]LogFbx: Dumping Node START [Box001] 
+[2018.05.21-15.07.35:576][849]LogFbx: 	Total Deformer Count 37495696.
+[2018.05.21-15.07.35:576][849]LogFbx: 	Attribute () Type (4).
+[2018.05.21-15.07.35:576][849]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.05.21-15.07.35:576][849]LogFbx: Dumping Node END [Box001]
+[2018.05.21-15.07.35:576][849]LogFbx: =================================================
+[2018.05.21-15.07.35:576][849]LogFbx: Dumping Node START [Box001] 
+[2018.05.21-15.07.35:576][849]LogFbx: 	Total Deformer Count 37493512.
+[2018.05.21-15.07.35:576][849]LogFbx: 	Attribute () Type (4).
+[2018.05.21-15.07.35:576][849]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2018.05.21-15.07.35:576][849]LogFbx: Dumping Node END [Box001]
+[2018.05.21-15.07.35:586][849]LogStaticMesh: Building static mesh Box001...
+[2018.05.21-15.07.35:593][849]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Box001.Box001
+[2018.05.21-15.07.35:797][849]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.21-15.07.36:531][849]LogLinker: Can't find file '/Game/Blueprints/Box001'
+[2018.05.21-15.07.36:532][849]LogLinker: Can't find file for asset '/Game/Blueprints/Box001' while loading H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/FbxScene_BooktestMod.uasset.
+[2018.05.21-15.07.36:532][849]LogLinker: Can't find file '/Game/Blueprints/Rectangle001'
+[2018.05.21-15.07.36:532][849]LogLinker: Can't find file for asset '/Game/Blueprints/Rectangle001' while loading H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/FbxScene_BooktestMod.uasset.
+[2018.05.21-15.07.36:534][849]LogLinker: Can't find file '/Game/Blueprints/Box001'
+[2018.05.21-15.07.36:534][849]LogLinker: Can't find file for asset '/Game/Blueprints/Box001' while loading H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/FbxScene_BooktestMod.uasset.
+[2018.05.21-15.07.36:534][849]LogLinker: Can't find file '/Game/Blueprints/Rectangle001'
+[2018.05.21-15.07.36:535][849]LogLinker: Can't find file for asset '/Game/Blueprints/Rectangle001' while loading H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/FbxScene_BooktestMod.uasset.
+[2018.05.21-15.07.36:535][849]LogLinker: Can't find file '/Game/Blueprints/Box001'
+[2018.05.21-15.07.36:536][849]LogLinker: Can't find file for asset '/Game/Blueprints/Box001' while loading NULL.
+[2018.05.21-15.07.36:536][849]LogLinker: Can't find file '/Game/Blueprints/Rectangle001'
+[2018.05.21-15.07.36:536][849]LogLinker: Can't find file for asset '/Game/Blueprints/Rectangle001' while loading NULL.
+[2018.05.21-15.07.36:537][849]LogLinker: Can't find file '/Game/Blueprints/Box001'
+[2018.05.21-15.07.36:537][849]LogLinker: Can't find file for asset '/Game/Blueprints/Box001' while loading NULL.
+[2018.05.21-15.07.36:537][849]LogLinker: Can't find file '/Game/Blueprints/Rectangle001'
+[2018.05.21-15.07.36:537][849]LogLinker: Can't find file for asset '/Game/Blueprints/Rectangle001' while loading NULL.
+[2018.05.21-15.07.36:539][849]LogLinker: Can't find file '/Game/Blueprints/Rectangle001'
+[2018.05.21-15.07.36:539][849]LogLinker: Can't find file for asset '/Game/Blueprints/Rectangle001' while loading NULL.
+[2018.05.21-15.07.36:540][849]LogLinker: Can't find file '/Game/Blueprints/Box001'
+[2018.05.21-15.07.36:540][849]LogLinker: Can't find file for asset '/Game/Blueprints/Box001' while loading NULL.
+[2018.05.21-15.07.38:099][849]LogTexture: Display: Building textures: SymbolsFake6 (BGRA8, 502X105)
+[2018.05.21-15.07.38:099][849]LogTexture: Display: Building textures: SymbolsFake2 (BGRA8, 490X113)
+[2018.05.21-15.07.38:099][849]LogTexture: Display: Building textures: pointRight1 (AutoDXT, 432X640)
+[2018.05.21-15.07.38:099][849]LogTexture: Display: Building textures: SymbolsFake3 (BGRA8, 499X113)
+[2018.05.21-15.07.38:099][849]LogTexture: Display: Building textures: SymbolsReal (BGRA8, 484X110)
+[2018.05.21-15.07.38:099][849]LogTexture: Display: Building textures: SymbolsFake1 (BGRA8, 492X123)
+[2018.05.21-15.07.38:099][849]LogTexture: Display: Building textures: SymbolsFake4 (BGRA8, 495X111)
+[2018.05.21-15.07.38:100][849]LogMaterial: Missing cached shader map for material M_Metal_Gold6, compiling. 
+[2018.05.21-15.07.38:146][849]LogTexture: Display: Building textures: hanging_doll_-_metalic (AutoDXT, 512X512)
+[2018.05.21-15.07.38:146][849]LogTexture: Display: Building textures: hanging_doll_-_base (AutoDXT, 512X512)
+[2018.05.21-15.07.38:146][849]LogTexture: Display: Building textures: hanging_doll_-_normal_2 (BC5, 512X512)
+[2018.05.21-15.07.38:146][849]LogTexture: Display: Building textures: hanging_doll_-_roughness (AutoDXT, 512X512)
+[2018.05.21-15.07.38:150][849]LogStaticMesh: Building static mesh NameTagPlane...
+[2018.05.21-15.07.38:157][849]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Models/NameTagPlane.NameTagPlane
+[2018.05.21-15.07.38:159][849]LogStaticMesh: Building static mesh NameTagBox...
+[2018.05.21-15.07.38:162][849]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Models/NameTagBox.NameTagBox
+[2018.05.21-15.07.38:171][849]LogStaticMesh: Building static mesh CylNameTag2...
+[2018.05.21-15.07.38:207][849]LogTexture: Display: Building textures: circle (AutoDXT, 256X256)
+[2018.05.21-15.07.38:207][849]LogStaticMesh: Built static mesh [0.04s] /Game/Blueprints/Models/CylNameTag2.CylNameTag2
+[2018.05.21-15.07.38:209][849]LogStaticMesh: Building static mesh CylNameTag1...
+[2018.05.21-15.07.38:263][849]LogTexture: Display: Building textures: pointLeft (BGRA8, 500X394)
+[2018.05.21-15.07.38:263][849]LogStaticMesh: Built static mesh [0.05s] /Game/Blueprints/Models/CylNameTag1.CylNameTag1
+[2018.05.21-15.07.38:910][849]LogTexture: Display: Building textures: pointUp2 (BGRA8, 1318X2048)
+[2018.05.21-15.07.38:910][849]LogMaterial: Missing cached shader map for material pointUp1Mat, compiling. 
+[2018.05.21-15.07.38:940][849]LogMaterial: Missing cached shader map for material pointRight1_Mat, compiling. 
+[2018.05.21-15.07.38:982][849]LogStaticMesh: Building static mesh RamRight1...
+[2018.05.21-15.07.39:000][849]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Models/RamRight1.RamRight1
+[2018.05.21-15.07.39:002][849]LogStaticMesh: Building static mesh tavlaRight1...
+[2018.05.21-15.07.39:003][849]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Models/tavlaRight1.tavlaRight1
+[2018.05.21-15.07.39:006][849]LogMaterial: Missing cached shader map for material Material__25, compiling. 
+[2018.05.21-15.07.39:034][849]LogMaterial: Missing cached shader map for material M_Metal_Gold1, compiling. 
+[2018.05.21-15.07.39:076][849]LogMaterial: Missing cached shader map for material M_Metal_GoldReal, compiling. 
+[2018.05.21-15.07.39:116][849]LogMaterial: Missing cached shader map for material M_Metal_Gold4, compiling. 
+[2018.05.21-15.07.39:163][849]LogMaterial: Missing cached shader map for material hangingDoll_Mat, compiling. 
+[2018.05.21-15.07.39:192][849]LogStaticMesh: Building static mesh doll...
+[2018.05.21-15.07.39:225][849]LogStaticMesh: Built static mesh [0.03s] /Game/Blueprints/Models/doll.doll
+[2018.05.21-15.07.39:231][849]LogMaterial: Missing cached shader map for material Hanging_Doll, compiling. 
+[2018.05.21-15.07.39:267][849]LogStaticMesh: Building static mesh TavlaLeft1...
+[2018.05.21-15.07.39:268][849]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/Models/TavlaLeft1.TavlaLeft1
+[2018.05.21-15.07.39:268][849]LogStaticMesh: Building static mesh RamLeft1...
+[2018.05.21-15.07.39:349][849]LogStaticMesh: Built static mesh [0.08s] /Game/Blueprints/Models/RamLeft1.RamLeft1
+[2018.05.21-15.07.39:361][849]LogMaterial: Missing cached shader map for material pointLeftMat, compiling. 
+[2018.05.21-15.07.39:394][849]LogMaterial: Missing cached shader map for material M_Metal_Gold3, compiling. 
+[2018.05.21-15.07.39:437][849]LogMaterial: Missing cached shader map for material M_Metal_Gold2, compiling. 
+[2018.05.21-15.07.39:969][849]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.05.21-15.07.40:828][849]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.05.21-15.07.40:876][849]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.05.21-15.07.40:986][849]FBXImport: Warning: Found invalid character in a material name. Original name: 01 - Default New name: 01_-_Default 
+[2018.05.21-15.08.24:943][902]MapCheck: New page: Map Check
+[2018.05.21-15.08.24:954][902]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.21-15.08.24:954][902]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.21-15.08.25:241][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.21-15.08.25:254][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Floor, compiling. 
+[2018.05.21-15.08.25:261][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.05.21-15.08.25:271][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Oak, compiling. 
+[2018.05.21-15.08.25:279][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.05.21-15.08.25:289][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Walnut, compiling. 
+[2018.05.21-15.08.25:297][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2018.05.21-15.08.25:311][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.05.21-15.08.25:319][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2018.05.21-15.08.25:330][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Walls, compiling. 
+[2018.05.21-15.08.25:341][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.21-15.08.25:350][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy StonePillar, compiling. 
+[2018.05.21-15.08.25:358][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mirror_Mat, compiling. 
+[2018.05.21-15.08.25:366][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Rust, compiling. 
+[2018.05.21-15.08.25:373][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2018.05.21-15.08.25:380][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_smoke_subUV, compiling. 
+[2018.05.21-15.08.25:387][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Radial_Gradient, compiling. 
+[2018.05.21-15.08.25:394][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 01_-_Default, compiling. 
+[2018.05.21-15.08.26:417][902]TextureStreamingBuild: Display: Compiling optional shaders took 1.191 seconds.
+[2018.05.21-15.08.26:450][902]LogLevel: Display: Export Material TexCoord Scales took 0.033 seconds.
+[2018.05.21-15.08.26:471][902]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2018.05.21-15.08.26:489][902]LightingResults: New page: Lighting Build - May 21, 2018, 7:08:26 PM
+[2018.05.21-15.08.26:669][902]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.21-15.08.26:764][902]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.21-15.08.26:794][902]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.21-15.08.27:822][902]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.21-15.08.27:823][902]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15384
+[2018.05.21-15.08.28:917][902]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.21-15.08.28:918][902]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.21-15.08.28:918][902]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.21-15.08.28:918][902]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.21-15.08.28:918][902]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.21-15.08.28:918][902]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.21-15.08.29:325][902]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.21-15.08.29:325][902]MapCheck: New page: Untitled_1_Auto3 - May 21, 2018, 7:08:29 PM
+[2018.05.21-15.08.29:332][902]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.21-15.08.30:031][902]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 706.057ms to complete.
+[2018.05.21-15.08.30:056][902]LogEditorBuildUtils: Build time 0:05
+[2018.05.21-15.08.30:089][902]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.05.21-15.08.30:097][902]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.05.21-15.08.30:182][903]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2018.05.21-15.08.30:190][903]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2018.05.21-15.08.30:226][904]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Walls, compiling. 
+[2018.05.21-15.08.30:237][904]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Walls, compiling. 
+[2018.05.21-15.08.30:276][905]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.05.21-15.08.30:287][905]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.05.21-15.08.30:323][906]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer StonePillar, compiling. 
+[2018.05.21-15.08.30:333][906]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer StonePillar, compiling. 
+[2018.05.21-15.08.30:372][907]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.05.21-15.08.30:386][907]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.05.21-15.08.30:426][908]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Mirror_Mat, compiling. 
+[2018.05.21-15.08.30:438][908]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Mirror_Mat, compiling. 
+[2018.05.21-15.08.30:475][909]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Rust, compiling. 
+[2018.05.21-15.08.30:486][909]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Rust, compiling. 
+[2018.05.21-15.08.30:522][910]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2018.05.21-15.08.30:532][910]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2018.05.21-15.08.35:842][  1]LightingResults: Warning: shie_Cylinder001 Object has overlapping UVs.
+[2018.05.21-15.08.35:842][  1]LightingResults: shie_Cylinder001 Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.21-15.08.35:939][  4]LightingResults: Warning: pelaremindre Object has overlapping UVs.
+[2018.05.21-15.08.35:939][  4]LightingResults: pelaremindre Lightmap UV are overlapping by 15.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.21-15.08.36:192][ 12]LightingResults: Warning: pelaremindre Object has overlapping UVs.
+[2018.05.21-15.08.36:192][ 12]LightingResults: pelaremindre Lightmap UV are overlapping by 15.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.21-15.08.36:361][ 18]LightingResults: Warning: pelaremindre Object has overlapping UVs.
+[2018.05.21-15.08.36:361][ 18]LightingResults: pelaremindre Lightmap UV are overlapping by 15.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.21-15.08.36:446][ 21]LightingResults: Warning: pelaremindre Object has overlapping UVs.
+[2018.05.21-15.08.36:446][ 21]LightingResults: pelaremindre Lightmap UV are overlapping by 15.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.21-15.08.36:531][ 24]LightingResults: Warning: pelaremindre Object has overlapping UVs.
+[2018.05.21-15.08.36:531][ 24]LightingResults: pelaremindre Lightmap UV are overlapping by 15.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.21-15.08.37:162][ 44]LightingResults: Warning: pelaremindre Object has overlapping UVs.
+[2018.05.21-15.08.37:162][ 44]LightingResults: pelaremindre Lightmap UV are overlapping by 15.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.05.21-15.08.37:249][ 48]Job is a success!
+[2018.05.21-15.08.37:372][ 49]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2018.05.21-15.08.37:372][ 49]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.05.21-15.08.37:372][ 49]LogVolumetricLightmapImport:      BrickData 275x5x5 = 0.2Mb
+[2018.05.21-15.08.37:372][ 49]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.21-15.08.37:372][ 49]LogVolumetricLightmapImport:          0: 1.8% covering 100.0% of volume
+[2018.05.21-15.08.37:372][ 49]LogVolumetricLightmapImport:          1: 7.3% covering 6.3% of volume
+[2018.05.21-15.08.37:372][ 49]LogVolumetricLightmapImport:          2: 90.9% covering 1.2% of volume
+[2018.05.21-15.08.37:426][ 49]LogMaterial: Warning: Material /Game/Blueprints/01_-_Default.01_-_Default needed to have new flag set bUsedWithStaticLighting !
+[2018.05.21-15.08.37:430][ 49]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.05.21-15.08.38:037][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.21-15.08.38:037][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.21-15.08.38:037][ 49]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.05.21-15.08.38:037][ 49]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.05.21-15.08.38:037][ 49]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.05.21-15.08.38:037][ 49]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.05.21-15.08.38:080][ 49]Lightmass on KITN-K4507-11: 3.96 sec total, 140 ms importing, 57 ms setup, 864 ms photons, 2.86 sec processing, 0 ms extra exporting [143/143 mappings]. Threads: 19.9 sec total, 10.8 sec processing.
+[2018.05.21-15.08.38:114][ 49]LogStaticLightingSystem: Illumination: 11.5 sec (526 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.05.21-15.08.38:115][ 49]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.05.21-15.08.38:115][ 49]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.05.21-15.08.38:923][ 49]DumpUnbuiltLightIteractions
+[2018.05.21-15.08.38:923][ 49]Lights with unbuilt interactions: 0
+[2018.05.21-15.08.38:923][ 49]
+[2018.05.21-15.08.38:923][ 49]Primitives with unbuilt interactions: 0
+[2018.05.21-15.08.38:943][ 50]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.21-15.08.38:943][ 50]MapCheck: New page: Untitled_1_Auto3 - May 21, 2018, 7:08:38 PM
+[2018.05.21-15.08.39:131][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 187.317ms to complete.
+[2018.05.21-15.08.52:488][899]LogSlate: Took 0.008367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.21-15.09.34:557][832]LogMaterial: Warning: Material /Game/Mats/Floor.Floor needed to have new flag set bUsedWithStaticLighting !
+[2018.05.21-15.09.34:560][832]LogMaterial: Missing cached shader map for material Floor, compiling. 
+[2018.05.21-15.09.43:143][212]BlueprintLog: New page: Compile FbxScene_nyasteBokMod
+[2018.05.21-15.10.26:228][217]LogMaterial: Warning: Material /Game/Blueprints/Material__25.Material__25 needed to have new flag set bUsedWithStaticLighting !
+[2018.05.21-15.10.26:231][217]LogMaterial: Missing cached shader map for material Material__25, compiling. 
+[2018.05.21-15.10.29:238][335]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.21-15.10.29:239][335]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.21-15.10.38:095][822]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.10.57:969][ 94]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/3Dmaze/BookNewMod2.FBX)
+[2018.05.21-15.10.58:058][ 94]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.21-15.10.58:059][ 94]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.21-15.10.58:059][ 94]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.21-15.10.58:059][ 94]LogFbx: ItemName: Model, ItemCount : 2
+[2018.05.21-15.10.58:059][ 94]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.05.21-15.10.58:059][ 94]LogFbx: ItemName: Material, ItemCount : 2
+[2018.05.21-15.10.58:059][ 94]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.05.21-15.10.58:059][ 94]LogFbx: ItemName: Video, ItemCount : 2
+[2018.05.21-15.10.58:072][ 94]LogFbx: Loading FBX Scene from H:/3Dmaze/BookNewMod2.FBX
+[2018.05.21-15.10.58:161][ 94]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.21-15.11.02:770][ 94]LogFbx: Loading FBX Scene from H:/3Dmaze/BookNewMod2.FBX
+[2018.05.21-15.11.02:848][ 94]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.21-15.11.02:853][ 94]LogFbx: Warning: Triangulating static mesh Rectangle001
+[2018.05.21-15.11.02:878][ 94]LogStaticMesh: Building static mesh BookNewMod2_Rectangle001...
+[2018.05.21-15.11.02:886][ 94]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/BookNewMod2_Rectangle001.BookNewMod2_Rectangle001
+[2018.05.21-15.11.02:970][ 94]LogLinker: Can't find file '/Game/Blueprints/02_-_Default'
+[2018.05.21-15.11.02:971][ 94]LogLinker: Can't find file '/Game/Blueprints/02_-_Default'
+[2018.05.21-15.11.03:028][ 94]LogLinker: Can't find file '/Game/Blueprints/pages'
+[2018.05.21-15.11.03:030][ 94]LogLinker: Can't find file '/Game/Blueprints/pages'
+[2018.05.21-15.11.03:175][ 94]LogTexture: Display: Building textures: pages (BGRA8, 1890X1417)
+[2018.05.21-15.11.03:553][ 94]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.11.03:595][ 94]LogFbx: Warning: Triangulating static mesh Box001
+[2018.05.21-15.11.03:605][ 94]LogStaticMesh: Building static mesh BookNewMod2_Box001...
+[2018.05.21-15.11.03:608][ 94]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/BookNewMod2_Box001.BookNewMod2_Box001
+[2018.05.21-15.11.03:676][ 94]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.05.21-15.11.36:865][927]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.21-15.11.58:513][822]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/3Dmaze/Book3Mod.FBX)
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: Model, ItemCount : 2
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: Material, ItemCount : 2
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.05.21-15.11.58:603][822]LogFbx: ItemName: Video, ItemCount : 2
+[2018.05.21-15.11.58:615][822]LogFbx: Loading FBX Scene from H:/3Dmaze/Book3Mod.FBX
+[2018.05.21-15.11.58:701][822]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.21-15.12.01:567][822]LogFbx: Loading FBX Scene from H:/3Dmaze/Book3Mod.FBX
+[2018.05.21-15.12.01:692][822]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.21-15.12.01:703][822]LogLinker: Can't find file '/Game/Blueprints/testBok/01_-_Default'
+[2018.05.21-15.12.01:704][822]LogLinker: Can't find file '/Game/Blueprints/testBok/01_-_Default'
+[2018.05.21-15.12.01:780][822]LogLinker: Can't find file '/Game/Blueprints/testBok/IntoOblivion'
+[2018.05.21-15.12.01:781][822]LogLinker: Can't find file '/Game/Blueprints/testBok/IntoOblivion'
+[2018.05.21-15.12.01:879][822]LogTexture: Display: Building textures: IntoOblivion (BGRA8, 956X675)
+[2018.05.21-15.12.02:055][822]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.05.21-15.12.02:101][822]LogStaticMesh: Building static mesh Book3Mod_Rectangle001...
+[2018.05.21-15.12.02:112][822]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/testBok/Book3Mod_Rectangle001.Book3Mod_Rectangle001
+[2018.05.21-15.12.02:198][822]LogLinker: Can't find file '/Game/Blueprints/testBok/02_-_Default'
+[2018.05.21-15.12.02:198][822]LogLinker: Can't find file '/Game/Blueprints/testBok/02_-_Default'
+[2018.05.21-15.12.02:251][822]LogLinker: Can't find file '/Game/Blueprints/testBok/pages'
+[2018.05.21-15.12.02:252][822]LogLinker: Can't find file '/Game/Blueprints/testBok/pages'
+[2018.05.21-15.12.02:345][822]LogTexture: Display: Building textures: pages (BGRA8, 1890X1417)
+[2018.05.21-15.12.02:670][822]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.12.02:695][822]LogFbx: Warning: Triangulating static mesh Box001
+[2018.05.21-15.12.02:702][822]LogStaticMesh: Building static mesh Book3Mod_Box001...
+[2018.05.21-15.12.02:707][822]LogStaticMesh: Built static mesh [0.00s] /Game/Blueprints/testBok/Book3Mod_Box001.Book3Mod_Box001
+[2018.05.21-15.12.02:764][822]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.05.21-15.12.07:611][154]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.12.07:710][160]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Box001)
+[2018.05.21-15.12.09:029][267]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Box001)
+[2018.05.21-15.12.09:097][271]LogEditorViewport: Clicking on Actor (double click): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.12.24:680][ 57]LogMaterial: Warning: Material /Game/Blueprints/testBok/01_-_Default.01_-_Default needed to have new flag set bUsedWithStaticLighting !
+[2018.05.21-15.12.24:683][ 57]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.05.21-15.12.49:217][306]BlueprintLog: New page: Compile FbxScene_nyasteBokMod
+[2018.05.21-15.13.23:268][336]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.13.29:488][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.FbxScene_nyasteBokMod_C_0.Box001' 
+[2018.05.21-15.13.29:489][700]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Untitled_1_Auto3.Untitled_1_Auto3:PersistentLevel.FbxScene_nyasteBokMod_C_0.Box001' 
+[2018.05.21-15.14.19:745][160]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.14.22:896][350]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.15.23:175][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_1_Auto3" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.21-15.15.34:794][145]LogSavePackage: Save=11355.80ms
+[2018.05.21-15.15.34:794][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Untitled_1_Auto3_Auto1A7E58E4D44004C6FC17DFBB4B37F7065.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_Auto1.umap'
+[2018.05.21-15.15.34:944][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_Auto1.umap
+[2018.05.21-15.15.34:972][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled_1_Auto3' took 11.834
+[2018.05.21-15.15.34:972][145]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 11.834
+[2018.05.21-15.15.34:995][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/01_-_Default] ([1] browsable assets)...
+[2018.05.21-15.15.35:027][145]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/01_-_Default.01_-_Default]
+[2018.05.21-15.15.35:027][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/01_-_Default]
+[2018.05.21-15.15.35:027][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/01_-_Default" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/01_-_Default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.35:247][145]LogSavePackage: Save=72.78ms
+[2018.05.21-15.15.35:247][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/01_-_Default_Auto1AEE350A54E7910E72CA8A7A46228910A.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/01_-_Default_Auto1.uasset'
+[2018.05.21-15.15.35:326][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/01_-_Default_Auto1.uasset
+[2018.05.21-15.15.35:339][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Untitled_1_Auto3_BuiltData] ([1] browsable assets)...
+[2018.05.21-15.15.35:339][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Untitled_1_Auto3_BuiltData]
+[2018.05.21-15.15.35:339][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_1_Auto3_BuiltData" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_BuiltData_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.36:139][145]LogSavePackage: Save=652.87ms
+[2018.05.21-15.15.36:139][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Untitled_1_Auto3_BuiltData_Auto187797BA446891F9CEFA63FB8F4F8F45F.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_BuiltData_Auto1.uasset'
+[2018.05.21-15.15.36:285][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_BuiltData_Auto1.uasset
+[2018.05.21-15.15.36:304][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mats/Floor] ([1] browsable assets)...
+[2018.05.21-15.15.36:325][145]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mats/Floor.Floor]
+[2018.05.21-15.15.36:325][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mats/Floor]
+[2018.05.21-15.15.36:325][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mats/Floor" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Mats/Floor_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.36:627][145]LogSavePackage: Save=177.38ms
+[2018.05.21-15.15.36:627][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Floor_Auto190451DD848AECB87EF76DB9FE2F49490.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Mats/Floor_Auto1.uasset'
+[2018.05.21-15.15.36:732][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Mats/Floor_Auto1.uasset
+[2018.05.21-15.15.36:743][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/nyasteBokMod] ([1] browsable assets)...
+[2018.05.21-15.15.36:743][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/nyasteBokMod]
+[2018.05.21-15.15.36:743][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/nyasteBokMod" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/nyasteBokMod_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.36:802][145]LogSavePackage: Save=20.08ms
+[2018.05.21-15.15.36:803][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/nyasteBokMod_Auto10488C5334C46B966F0F4C08DF5F19614.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/nyasteBokMod_Auto1.uasset'
+[2018.05.21-15.15.36:874][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/nyasteBokMod_Auto1.uasset
+[2018.05.21-15.15.36:887][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Box001] ([1] browsable assets)...
+[2018.05.21-15.15.36:919][145]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Box001.Box001]
+[2018.05.21-15.15.36:919][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Box001]
+[2018.05.21-15.15.36:919][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Box001" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/Box001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.37:188][145]LogSavePackage: Save=215.99ms
+[2018.05.21-15.15.37:188][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Box001_Auto1D3E0F826430004045F343F8524112948.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/Box001_Auto1.uasset'
+[2018.05.21-15.15.37:306][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/Box001_Auto1.uasset
+[2018.05.21-15.15.37:320][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FbxScene_nyasteBokMod] ([1] browsable assets)...
+[2018.05.21-15.15.37:334][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod]
+[2018.05.21-15.15.37:334][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FbxScene_nyasteBokMod]
+[2018.05.21-15.15.37:334][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FbxScene_nyasteBokMod" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/FbxScene_nyasteBokMod_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.37:675][145]LogSavePackage: Save=284.25ms
+[2018.05.21-15.15.37:675][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/FbxScene_nyasteBokMod_Auto14DCC558C4B7AE0D79D881CA9A4A17E03.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/FbxScene_nyasteBokMod_Auto1.uasset'
+[2018.05.21-15.15.37:780][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/FbxScene_nyasteBokMod_Auto1.uasset
+[2018.05.21-15.15.37:797][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/IntoOblivion] ([1] browsable assets)...
+[2018.05.21-15.15.37:805][145]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/testBok/IntoOblivion.IntoOblivion]
+[2018.05.21-15.15.37:805][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/IntoOblivion]
+[2018.05.21-15.15.37:805][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/IntoOblivion" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/IntoOblivion_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.38:030][145]LogSavePackage: Save=166.97ms
+[2018.05.21-15.15.38:030][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/IntoOblivion_Auto154A9D09D4C36512BA6979CA903C74EA0.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/IntoOblivion_Auto1.uasset'
+[2018.05.21-15.15.38:122][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/IntoOblivion_Auto1.uasset
+[2018.05.21-15.15.38:133][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Material__25] ([1] browsable assets)...
+[2018.05.21-15.15.38:160][145]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Material__25.Material__25]
+[2018.05.21-15.15.38:160][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Material__25]
+[2018.05.21-15.15.38:160][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Material__25" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/Material__25_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.38:408][145]LogSavePackage: Save=72.67ms
+[2018.05.21-15.15.38:408][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Material__25_Auto1FCCB9D4C4AFD15CB362415A1DAAE5D6B.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/Material__25_Auto1.uasset'
+[2018.05.21-15.15.38:495][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/Material__25_Auto1.uasset
+[2018.05.21-15.15.38:512][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/01_-_Default] ([1] browsable assets)...
+[2018.05.21-15.15.38:539][145]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/testBok/01_-_Default.01_-_Default]
+[2018.05.21-15.15.38:539][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/01_-_Default]
+[2018.05.21-15.15.38:541][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/01_-_Default" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/01_-_Default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.38:697][145]LogSavePackage: Save=88.93ms
+[2018.05.21-15.15.38:697][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/01_-_Default_Auto1769978764DB27E87B20C0B8A3CBC4C6E.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/01_-_Default_Auto1.uasset'
+[2018.05.21-15.15.38:797][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/01_-_Default_Auto1.uasset
+[2018.05.21-15.15.38:814][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/Book3Mod_Rectangle001] ([1] browsable assets)...
+[2018.05.21-15.15.38:842][145]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/testBok/Book3Mod_Rectangle001.Book3Mod_Rectangle001]
+[2018.05.21-15.15.38:843][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/Book3Mod_Rectangle001]
+[2018.05.21-15.15.39:126][145]LogSavePackage: Save=228.56ms
+[2018.05.21-15.15.39:127][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Book3Mod_Rectangle001_Auto19CC5127249DD703E762CB8B2CC34090E.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/Book3Mod_Rectangle001_Auto1.uasset'
+[2018.05.21-15.15.39:217][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/Book3Mod_Rectangle001_Auto1.uasset
+[2018.05.21-15.15.39:229][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/pages] ([1] browsable assets)...
+[2018.05.21-15.15.39:246][145]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/pages.pages]
+[2018.05.21-15.15.39:246][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/pages]
+[2018.05.21-15.15.39:246][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/pages" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/pages_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.39:679][145]LogSavePackage: Save=372.09ms
+[2018.05.21-15.15.39:679][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/pages_Auto1FC2388F9447A0087E9A16A976D67EB25.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/pages_Auto1.uasset'
+[2018.05.21-15.15.39:777][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/pages_Auto1.uasset
+[2018.05.21-15.15.39:793][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/Book3Mod_Box001] ([1] browsable assets)...
+[2018.05.21-15.15.39:825][145]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/testBok/Book3Mod_Box001.Book3Mod_Box001]
+[2018.05.21-15.15.39:825][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/Book3Mod_Box001]
+[2018.05.21-15.15.39:825][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/Book3Mod_Box001" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/Book3Mod_Box001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.40:132][145]LogSavePackage: Save=243.38ms
+[2018.05.21-15.15.40:132][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Book3Mod_Box001_Auto136906CDA411111BA266693888AA8C3BF.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/Book3Mod_Box001_Auto1.uasset'
+[2018.05.21-15.15.40:224][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/Book3Mod_Box001_Auto1.uasset
+[2018.05.21-15.15.40:241][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/02_-_Default] ([1] browsable assets)...
+[2018.05.21-15.15.40:272][145]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/testBok/02_-_Default.02_-_Default]
+[2018.05.21-15.15.40:272][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/02_-_Default]
+[2018.05.21-15.15.40:272][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/02_-_Default" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/02_-_Default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.40:419][145]LogSavePackage: Save=88.77ms
+[2018.05.21-15.15.40:419][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/02_-_Default_Auto168E501F945502331322D3189C4FE5594.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/02_-_Default_Auto1.uasset'
+[2018.05.21-15.15.40:510][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/02_-_Default_Auto1.uasset
+[2018.05.21-15.15.40:527][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/pages] ([1] browsable assets)...
+[2018.05.21-15.15.40:544][145]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/testBok/pages.pages]
+[2018.05.21-15.15.40:544][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/pages]
+[2018.05.21-15.15.40:546][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/pages" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/pages_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.15.40:996][145]LogSavePackage: Save=393.25ms
+[2018.05.21-15.15.40:996][145]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/pages_Auto1FF89CB1C45D702413A326194D9EEFBD4.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/pages_Auto1.uasset'
+[2018.05.21-15.15.41:087][145]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/pages_Auto1.uasset
+[2018.05.21-15.15.41:087][145]LogFileHelpers: Auto-saving content packages took 6.108
+[2018.05.21-15.16.17:857][543]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0022 seconds. Added 1 classes and 0 folders.
+[2018.05.21-15.16.17:865][543]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.05.21-15.16.18:310][543]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.05.21-15.16.18:460][543]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.05.21-15.16.18:482][543]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.05.21-15.16.18:534][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.21-15.16.20:364][611]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.21-15.16.20:364][611]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2018.05.21-15.16.20:364][611]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.21-15.16.20:364][611]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.05.21-15.16.20:364][611]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.21-15.16.20:364][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.21-15.16.27:064][ 10]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.16.27:165][ 10]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.16.27:183][ 10]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.16.27:228][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.21-15.16.28:301][ 47]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.21-15.16.28:301][ 47]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.21-15.16.28:301][ 47]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.05.21-15.16.28:301][ 47]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.21-15.16.28:301][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.21-15.17.20:577][881]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/TEMP.AD.001/Downloads/united-kingdom-Epic-Fantasy-book-cover-design.png)
+[2018.05.21-15.17.20:620][881]LogTexture: Display: Building textures: united-kingdom-Epic-Fantasy-book-cover-design (AutoDXT, 1000X684)
+[2018.05.21-15.17.26:906][124]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.17.26:923][124]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.05.21-15.17.26:961][124]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.21-15.17.26:975][124]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.05.21-15.17.28:377][177]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.21-15.17.28:377][177]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.21-15.17.28:377][177]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.05.21-15.17.28:377][177]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.21-15.17.28:377][177]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.21-15.17.30:177][277]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.17.31:194][316]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.21-15.17.31:194][316]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.21-15.17.31:194][316]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.21-15.17.31:194][316]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.21-15.17.33:649][459]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.17.33:668][459]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.05.21-15.17.34:690][500]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.21-15.17.34:690][500]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.21-15.17.34:690][500]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.05.21-15.17.34:690][500]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.21-15.17.34:690][500]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.21-15.17.35:588][554]LogMaterialEditor: Applying material 02_-_Default
+[2018.05.21-15.17.36:158][554]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.17.36:205][554]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.17.36:248][554]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.05.21-15.17.36:307][554]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 02_-_Default, compiling. 
+[2018.05.21-15.17.37:184][554]TextureStreamingBuild: Display: Compiling optional shaders took 0.884 seconds.
+[2018.05.21-15.17.38:817][637]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.18.02:793][484]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.18.03:512][522]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.18.04:622][577]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.18.10:795][940]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.18.12:404][ 30]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod2)
+[2018.05.21-15.18.15:938][230]Cmd: DELETE
+[2018.05.21-15.18.15:938][230]Cmd: ACTOR DELETE
+[2018.05.21-15.18.15:948][230]LogEditorActor: Deleted Actor: FbxScene_nyasteBokMod_C
+[2018.05.21-15.18.15:976][230]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.05.21-15.18.35:898][606]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.18.37:493][717]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_2_C (FbxScene_nyasteBokMod_2)
+[2018.05.21-15.18.38:417][767]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.18.58:715][158]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_2_C (FbxScene_nyasteBokMod_2)
+[2018.05.21-15.18.59:636][208]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.19.01:889][340]Cmd: DELETE
+[2018.05.21-15.19.01:889][340]Cmd: ACTOR DELETE
+[2018.05.21-15.19.01:900][340]LogEditorActor: Deleted Actor: FbxScene_nyasteBokMod_C
+[2018.05.21-15.19.01:931][340]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.05.21-15.19.02:329][365]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_2_C (FbxScene_nyasteBokMod_2)
+[2018.05.21-15.19.08:772][768]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_2_C (FbxScene_nyasteBokMod_2)
+[2018.05.21-15.19.28:425][646]BlueprintLog: New page: Compile FbxScene_nyasteBokMod_2
+[2018.05.21-15.19.36:903][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.21-15.19.41:272][375]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.19.47:041][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.21-15.19.50:140][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.21-15.19.51:064][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube109)
+[2018.05.21-15.21.02:888][584]LogEditorViewport: Clicking on Actor (LMB): FbxScene_bookshelf_C (FbxScene_bookshelf)
+[2018.05.21-15.21.06:400][822]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_2_C (FbxScene_nyasteBokMod_2)
+[2018.05.21-15.21.06:796][844]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.21.07:401][882]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_2_C (FbxScene_nyasteBokMod_2)
+[2018.05.21-15.22.32:351][568]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_C (FbxScene_nyasteBokMod)
+[2018.05.21-15.22.33:408][619]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_2_C (FbxScene_nyasteBokMod_2)
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.SKEL_FbxScene_nyasteBokMod_C' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod_C' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.SKEL_FbxScene_nyasteBokMod_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.SKEL_FbxScene_nyasteBokMod_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.SKEL_FbxScene_nyasteBokMod_C:ReceiveTick' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.SKEL_FbxScene_nyasteBokMod_C:DefaultSceneRoot1' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:405][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.SKEL_FbxScene_nyasteBokMod_C:Box001' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:406][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.SKEL_FbxScene_nyasteBokMod_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:406][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod_C:DefaultSceneRoot1' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:406][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod_C:Box001' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:406][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod.FbxScene_nyasteBokMod_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.SKEL_FbxScene_nyasteBokMod_2_C' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.FbxScene_nyasteBokMod_2_C' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.SKEL_FbxScene_nyasteBokMod_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.SKEL_FbxScene_nyasteBokMod_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.SKEL_FbxScene_nyasteBokMod_2_C:ReceiveTick' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.SKEL_FbxScene_nyasteBokMod_2_C:DefaultSceneRoot1' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.SKEL_FbxScene_nyasteBokMod_2_C:Box001' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.SKEL_FbxScene_nyasteBokMod_2_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.FbxScene_nyasteBokMod_2_C:DefaultSceneRoot1' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.FbxScene_nyasteBokMod_2_C:Box001' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:488][758]LogMetaData: Removing '/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2.FbxScene_nyasteBokMod_2_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/FbxScene_nyasteBokMod_2.PackageMetaData'
+[2018.05.21-15.22.51:569][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/FbxScene_nyasteBokMod" FILE="H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/testBok/FbxScene_nyasteBokMod.uasset" SILENT=true
+[2018.05.21-15.22.51:921][758]LogSavePackage: Save=294.36ms
+[2018.05.21-15.22.51:921][758]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/FbxScene_nyasteBokMod0F5F636242B1CBA179E89C8B12467E7D.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/testBok/FbxScene_nyasteBokMod.uasset'
+[2018.05.21-15.22.52:030][758]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/testBok/FbxScene_nyasteBokMod.uasset
+[2018.05.21-15.22.52:074][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/FbxScene_nyasteBokMod_2" FILE="H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/testBok/FbxScene_nyasteBokMod_2.uasset" SILENT=true
+[2018.05.21-15.22.52:425][758]LogSavePackage: Save=287.53ms
+[2018.05.21-15.22.52:425][758]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/FbxScene_nyasteBokMod_27EE434E849A4684B5DB2E0ADBBD0EA8C.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/testBok/FbxScene_nyasteBokMod_2.uasset'
+[2018.05.21-15.22.52:532][758]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Content/Blueprints/testBok/FbxScene_nyasteBokMod_2.uasset
+[2018.05.21-15.25.57:061][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/TEMP.AD.001/Downloads/92203_3548685_487393_image.jpg)
+[2018.05.21-15.25.57:138][607]LogTexture: Display: Building textures: 92203_3548685_487393_image (AutoDXT, 1200X900)
+[2018.05.21-15.25.58:520][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/TEMP.AD.001/Downloads/Katie-Borrazzo-Book-Cover.jpg)
+[2018.05.21-15.25.58:686][607]LogTexture: Display: Building textures: Katie-Borrazzo-Book-Cover (AutoDXT, 3656X2400)
+[2018.05.21-15.26.00:168][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/TEMP.AD.001/Downloads/MG_9583-Nicolae-book-cover.jpg)
+[2018.05.21-15.26.00:454][607]LogTexture: Display: Building textures: MG_9583-Nicolae-book-cover (BGRA8, 3697X2231)
+[2018.05.21-15.26.01:163][607]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/TEMP.AD.001/Downloads/united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design.png)
+[2018.05.21-15.26.02:071][607]LogTexture: Display: Building textures: united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design (BGRA8, 3591X2550)
+[2018.05.21-15.26.06:280][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_1_Auto3" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.21-15.26.18:078][829]LogSavePackage: Save=11542.54ms
+[2018.05.21-15.26.18:079][829]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Untitled_1_Auto3_Auto26B1C9EAF4B687F050C2ABAA267A03F55.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_Auto2.umap'
+[2018.05.21-15.26.18:261][829]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Untitled_1_Auto3_Auto2.umap
+[2018.05.21-15.26.18:299][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled_1_Auto3' took 12.053
+[2018.05.21-15.26.18:299][829]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 12.053
+[2018.05.21-15.26.18:345][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/MG_9583-Nicolae-book-cover] ([1] browsable assets)...
+[2018.05.21-15.26.18:356][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/testBok/MG_9583-Nicolae-book-cover.MG_9583-Nicolae-book-cover]
+[2018.05.21-15.26.18:356][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/MG_9583-Nicolae-book-cover]
+[2018.05.21-15.26.19:451][829]LogSavePackage: Save=993.51ms
+[2018.05.21-15.26.19:451][829]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/MG_9583-Nicolae-book-cover_Auto2785FFBA547672B79CECF87944627BD3E.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/MG_9583-Nicolae-book-cover_Auto2.uasset'
+[2018.05.21-15.26.19:580][829]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/MG_9583-Nicolae-book-cover_Auto2.uasset
+[2018.05.21-15.26.19:596][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/02_-_Default] ([1] browsable assets)...
+[2018.05.21-15.26.19:625][829]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/testBok/02_-_Default.02_-_Default]
+[2018.05.21-15.26.19:625][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/02_-_Default]
+[2018.05.21-15.26.19:625][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/testBok/02_-_Default" FILE="H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/02_-_Default_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.21-15.26.19:789][829]LogSavePackage: Save=84.83ms
+[2018.05.21-15.26.19:789][829]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/02_-_Default_Auto2EEA3CEE644C67AFF5BEB2CBFE77F28DE.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/02_-_Default_Auto2.uasset'
+[2018.05.21-15.26.19:920][829]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/02_-_Default_Auto2.uasset
+[2018.05.21-15.26.19:937][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/92203_3548685_487393_image] ([1] browsable assets)...
+[2018.05.21-15.26.19:954][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/testBok/92203_3548685_487393_image.92203_3548685_487393_image]
+[2018.05.21-15.26.19:954][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/92203_3548685_487393_image]
+[2018.05.21-15.26.20:287][829]LogSavePackage: Save=235.12ms
+[2018.05.21-15.26.20:287][829]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/92203_3548685_487393_image_Auto22D2BB468403DA57114ABE0BA0E2EB3D2.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/92203_3548685_487393_image_Auto2.uasset'
+[2018.05.21-15.26.20:374][829]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/92203_3548685_487393_image_Auto2.uasset
+[2018.05.21-15.26.20:396][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/united-kingdom-Epic-Fantasy-book-cover-design] ([1] browsable assets)...
+[2018.05.21-15.26.20:411][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/testBok/united-kingdom-Epic-Fantasy-book-cover-design.united-kingdom-Epic-Fantasy-book-cover-design]
+[2018.05.21-15.26.20:411][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/united-kingdom-Epic-Fantasy-book-cover-design]
+[2018.05.21-15.26.20:641][829]LogSavePackage: Save=174.56ms
+[2018.05.21-15.26.20:641][829]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/united-kingdom-Epic-Fantasy-book72439AF0422910041FFF99AA10C38520.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/united-kingdom-Epic-Fantasy-book-cover-design_Auto2.uasset'
+[2018.05.21-15.26.20:727][829]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/united-kingdom-Epic-Fantasy-book-cover-design_Auto2.uasset
+[2018.05.21-15.26.20:744][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/Katie-Borrazzo-Book-Cover] ([1] browsable assets)...
+[2018.05.21-15.26.20:758][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/testBok/Katie-Borrazzo-Book-Cover.Katie-Borrazzo-Book-Cover]
+[2018.05.21-15.26.20:758][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/Katie-Borrazzo-Book-Cover]
+[2018.05.21-15.26.21:854][829]LogSavePackage: Save=1039.03ms
+[2018.05.21-15.26.21:854][829]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/Katie-Borrazzo-Book-Cover_Auto25AB3E2BD49550E2492EDD1922BA3B90E.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/Katie-Borrazzo-Book-Cover_Auto2.uasset'
+[2018.05.21-15.26.21:940][829]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/Katie-Borrazzo-Book-Cover_Auto2.uasset
+[2018.05.21-15.26.21:956][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/testBok/united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design] ([1] browsable assets)...
+[2018.05.21-15.26.21:971][829]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/testBok/united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design.united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design]
+[2018.05.21-15.26.21:971][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/testBok/united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design]
+[2018.05.21-15.26.23:146][829]LogSavePackage: Save=1117.70ms
+[2018.05.21-15.26.23:146][829]LogSavePackage: Moving 'H:/3Dmaze/Mazehere/mazegame/Saved/united-states-contemporary-ficti2F32B73A4E3B666B745F879C34BC8692.tmp' to 'H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design_Auto2.uasset'
+[2018.05.21-15.26.23:233][829]LogSavePackage: Display: Finished SavePackage H:/3Dmaze/Mazehere/mazegame/Saved/Autosaves/Game/Blueprints/testBok/united-states-contemporary-fiction-thriller-transgressive-fiction-urban-fiction-addiction-fiction-book-cover-design_Auto2.uasset
+[2018.05.21-15.26.23:233][829]LogFileHelpers: Auto-saving content packages took 4.919
+[2018.05.21-15.26.36:580][764]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.26.40:318][ 18]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.26.41:691][ 86]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.41:764][ 86]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.41:786][ 86]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.43:174][134]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.21-15.26.43:174][134]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.21-15.26.43:174][134]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.21-15.26.43:174][134]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.21-15.26.46:943][295]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.46:959][295]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.05.21-15.26.46:991][295]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.05.21-15.26.47:975][332]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.21-15.26.47:975][332]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.21-15.26.47:975][332]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.21-15.26.47:975][332]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.21-15.26.50:791][484]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.50:813][484]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.05.21-15.26.51:873][525]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.21-15.26.51:873][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.21-15.26.51:873][525]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.05.21-15.26.51:873][525]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.21-15.26.51:873][525]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.21-15.26.52:025][534]LogMaterialEditor: Applying material bok1Mat
+[2018.05.21-15.26.52:650][534]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.52:733][534]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.52:792][534]LogMaterial: Missing cached shader map for material bok1Mat, compiling. 
+[2018.05.21-15.26.52:845][534]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bok1Mat, compiling. 
+[2018.05.21-15.26.53:670][534]TextureStreamingBuild: Display: Compiling optional shaders took 0.832 seconds.
+[2018.05.21-15.26.55:690][613]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.21-15.26.55:690][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.21-15.26.55:690][613]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.05.21-15.26.55:690][613]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.21-15.26.55:690][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.21-15.27.00:390][931]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.00:444][931]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.00:461][931]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.01:452][965]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.21-15.27.01:452][965]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.21-15.27.01:452][965]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.21-15.27.01:452][965]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.21-15.27.06:264][203]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.06:280][203]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.05.21-15.27.06:309][203]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.05.21-15.27.07:388][241]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.21-15.27.07:388][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.21-15.27.07:388][241]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.21-15.27.07:388][241]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.21-15.27.08:244][290]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.08:268][290]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.05.21-15.27.09:343][329]LogMaterialEditor: Applying material bok1Mat_2
+[2018.05.21-15.27.09:927][329]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.09:971][329]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.10:013][329]LogMaterial: Missing cached shader map for material bok1Mat_2, compiling. 
+[2018.05.21-15.27.10:074][329]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bok1Mat_2, compiling. 
+[2018.05.21-15.27.10:983][329]TextureStreamingBuild: Display: Compiling optional shaders took 0.917 seconds.
+[2018.05.21-15.27.14:459][525]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.14:516][525]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.14:533][525]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.15:583][559]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.21-15.27.15:583][559]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.21-15.27.15:583][559]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.21-15.27.15:583][559]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.21-15.27.16:462][605]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.16:478][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.05.21-15.27.16:512][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.05.21-15.27.19:226][737]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.21-15.27.19:227][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.21-15.27.19:227][737]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.21-15.27.19:227][737]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.21-15.27.21:069][844]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.21:088][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.05.21-15.27.22:208][885]LogMaterialEditor: Applying material bok1Mat_3
+[2018.05.21-15.27.23:435][885]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.23:479][885]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.23:519][885]LogMaterial: Missing cached shader map for material bok1Mat_3, compiling. 
+[2018.05.21-15.27.23:581][885]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bok1Mat_3, compiling. 
+[2018.05.21-15.27.24:446][885]TextureStreamingBuild: Display: Compiling optional shaders took 0.873 seconds.
+[2018.05.21-15.28.43:160][484]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.05.21-15.28.43:864][510]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_3_C (FbxScene_nyasteBokMod_3)
+[2018.05.21-15.28.46:229][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.21-15.29.09:790][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.21-15.29.48:793][ 41]LogEditorViewport: Clicking on Actor (LMB): FbxScene_nyasteBokMod_5_C (FbxScene_nyasteBokMod_5)
+[2018.05.21-15.30.54:933][702]Cmd: QUIT_EDITOR
+[2018.05.21-15.30.54:989][702]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.21-15.30.55:024][702]LogExit: Preparing to exit.
+[2018.05.21-15.30.56:187][702]LogExit: Editor shut down
+[2018.05.21-15.30.56:196][702]LogExit: Transaction tracking system shut down
+[2018.05.21-15.30.57:207][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.21-15.30.57:207][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.21-15.30.57:208][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/DatasmithImporter/Content/' was aborted.
+[2018.05.21-15.30.57:208][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.21-15.30.57:208][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.21-15.30.57:208][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.21-15.30.57:208][702]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.21-15.30.57:334][702]LogExit: Object subsystem successfully closed.
+[2018.05.21-15.30.57:347][702]LogD3D11RHI: Shutdown
+[2018.05.21-15.30.57:347][702]LogD3D11RHI: CleanupD3DDevice
+[2018.05.21-15.30.57:351][702]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.21-15.30.57:385][702]LogModuleManager: Shutting down and abandoning module MaterialEditor (560)
+[2018.05.21-15.30.57:385][702]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (558)
+[2018.05.21-15.30.57:385][702]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2018.05.21-15.30.57:385][702]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2018.05.21-15.30.57:385][702]LogModuleManager: Shutting down and abandoning module SceneOutliner (552)
+[2018.05.21-15.30.57:385][702]LogModuleManager: Shutting down and abandoning module AddContentDialog (550)
+[2018.05.21-15.30.57:386][702]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module WidgetCarousel (549)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module EditorWidgets (546)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module CollectionManager (544)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module StatsViewer (542)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module FoliageEdit (540)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module LandscapeEditor (538)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module MeshPaintMode (536)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (534)
+[2018.05.21-15.30.57:398][702]LogModuleManager: Shutting down and abandoning module ActorPickerMode (532)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module GeometryMode (530)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module TextureAlignMode (528)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module BspMode (526)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (524)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module HardwareSurvey (522)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (520)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module AutomationWorker (518)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (516)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (514)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module PlacementMode (513)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (510)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (508)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (506)
+[2018.05.21-15.30.57:399][702]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (504)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (502)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (500)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (498)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (496)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (494)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module CharacterAI (492)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module AudioCapture (490)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module SequenceRecorder (489)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module SmartSnapping (486)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module SessionServices (484)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module ViewportSnapping (482)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module ViewportInteraction (480)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module ClothPainter (478)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (477)
+[2018.05.21-15.30.57:400][702]LogModuleManager: Shutting down and abandoning module LogVisualizer (474)
+[2018.05.21-15.30.57:401][702]LogModuleManager: Shutting down and abandoning module IntroTutorials (472)
+[2018.05.21-15.30.57:401][702]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (471)
+[2018.05.21-15.30.57:401][702]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (468)
+[2018.05.21-15.30.57:401][702]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (466)
+[2018.05.21-15.30.57:401][702]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2018.05.21-15.30.57:401][702]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (463)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (460)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (458)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (456)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module InputBindingEditor (454)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module MergeActors (452)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module SizeMap (450)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module TreeMap (448)
+[2018.05.21-15.30.57:744][702]LogModuleManager: Shutting down and abandoning module ReferenceViewer (446)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (444)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module LocalizationService (443)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module HardwareTargeting (440)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (438)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module UndoHistory (436)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module XmlParser (434)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module Blutility (432)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (430)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (429)
+[2018.05.21-15.30.57:745][702]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (426)
+[2018.05.21-15.30.57:746][702]LogModuleManager: Shutting down and abandoning module SettingsEditor (424)
+[2018.05.21-15.30.57:746][702]LogModuleManager: Shutting down and abandoning module ProjectLauncher (422)
+[2018.05.21-15.30.57:746][702]LogModuleManager: Shutting down and abandoning module SessionFrontend (420)
+[2018.05.21-15.30.57:746][702]LogModuleManager: Shutting down and abandoning module ProfilerClient (418)
+[2018.05.21-15.30.57:746][702]LogModuleManager: Shutting down and abandoning module DeviceManager (416)
+[2018.05.21-15.30.57:746][702]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (415)
+[2018.05.21-15.30.57:812][702]LogModuleManager: Shutting down and abandoning module AutomationController (412)
+[2018.05.21-15.30.57:812][702]LogModuleManager: Shutting down and abandoning module AutomationWindow (410)
+[2018.05.21-15.30.57:812][702]LogModuleManager: Shutting down and abandoning module Layers (408)
+[2018.05.21-15.30.57:812][702]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (406)
+[2018.05.21-15.30.57:812][702]LogModuleManager: Shutting down and abandoning module DetailCustomizations (404)
+[2018.05.21-15.30.57:812][702]LogModuleManager: Shutting down and abandoning module PackagesDialog (402)
+[2018.05.21-15.30.57:815][702]LogModuleManager: Shutting down and abandoning module Persona (400)
+[2018.05.21-15.30.57:815][702]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (399)
+[2018.05.21-15.30.57:815][702]LogModuleManager: Shutting down and abandoning module AnimGraph (397)
+[2018.05.21-15.30.57:815][702]LogModuleManager: Shutting down and abandoning module Kismet (394)
+[2018.05.21-15.30.57:829][702]LogModuleManager: Shutting down and abandoning module ClassViewer (392)
+[2018.05.21-15.30.57:829][702]LogModuleManager: Shutting down and abandoning module Toolbox (390)
+[2018.05.21-15.30.57:829][702]LogModuleManager: Shutting down and abandoning module ModuleUI (388)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module MovieSceneTools (386)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module OutputLog (384)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module GammaUI (382)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module Documentation (380)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (378)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module MovieScene (376)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (374)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module LauncherPlatform (372)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module AnalyticsET (370)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module PortalServices (368)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module PortalRpc (366)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module MessagingRpc (364)
+[2018.05.21-15.30.57:830][702]LogModuleManager: Shutting down and abandoning module AIModule (362)
+[2018.05.21-15.30.57:831][702]LogModuleManager: Shutting down and abandoning module GameplayDebugger (361)
+[2018.05.21-15.30.57:831][702]LogModuleManager: Shutting down and abandoning module AITestSuite (359)
+[2018.05.21-15.30.57:831][702]LogModuleManager: Shutting down and abandoning module DesktopPlatform (356)
+[2018.05.21-15.30.57:831][702]LogModuleManager: Shutting down and abandoning module ProfilerService (354)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module TaskGraph (352)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module SteamVRController (350)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (348)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (346)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module OculusInput (344)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (342)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (340)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module CableComponent (338)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (336)
+[2018.05.21-15.30.58:016][702]LogModuleManager: Shutting down and abandoning module AndroidPermission (334)
+[2018.05.21-15.30.58:017][702]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2018.05.21-15.30.58:017][702]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (328)
+[2018.05.21-15.30.58:017][702]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (326)
+[2018.05.21-15.30.58:017][702]LogModuleManager: Shutting down and abandoning module MediaCompositing (324)
+[2018.05.21-15.30.58:017][702]LogModuleManager: Shutting down and abandoning module DatasmithCore (322)
+[2018.05.21-15.30.58:017][702]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (320)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module DatasmithImporter (319)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.05.21-15.30.58:019][702]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.05.21-15.30.58:020][702]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.05.21-15.30.58:021][702]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.05.21-15.30.58:021][702]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.05.21-15.30.58:023][702]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.05.21-15.30.58:024][702]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.05.21-15.30.58:024][702]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.05.21-15.30.58:125][702]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.05.21-15.30.58:226][702]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.05.21-15.30.58:226][702]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.05.21-15.30.58:226][702]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.05.21-15.30.58:226][702]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.05.21-15.30.58:226][702]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.05.21-15.30.58:226][702]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.05.21-15.30.58:229][702]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.05.21-15.30.58:229][702]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.05.21-15.30.58:229][702]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.05.21-15.30.58:229][702]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.05.21-15.30.58:238][702]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.05.21-15.30.58:238][702]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.05.21-15.30.58:238][702]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.05.21-15.30.58:238][702]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.05.21-15.30.58:238][702]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.05.21-15.30.58:238][702]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.05.21-15.30.58:245][702]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.05.21-15.30.58:246][702]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.05.21-15.30.58:246][702]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.05.21-15.30.58:246][702]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.05.21-15.30.58:246][702]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.05.21-15.30.58:253][702]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.05.21-15.30.58:254][702]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.21-15.30.58:254][702]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.21-15.30.58:255][702]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.21-15.30.58:255][702]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.21-15.30.58:255][702]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.21-15.30.58:255][702]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.21-15.30.58:255][702]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.21-15.30.58:255][702]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.21-15.30.58:255][702]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.05.21-15.30.58:328][702]LogDerivedDataCache: Shutdown
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.05.21-15.30.58:328][702]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.05.21-15.30.58:329][702]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.05.21-15.30.58:330][702]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.21-15.30.58:331][702]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.21-15.30.58:331][702]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.21-15.30.58:331][702]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.21-15.30.58:331][702]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.21-15.30.58:331][702]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.21-15.30.58:331][702]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.21-15.30.58:331][702]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.21-15.30.58:331][702]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B229EA25D-4F3D-6B5B-F019-22824D715D1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=14b8a7fd4255d2298b9cf8878451f168%7C%7Cba1c704a-3d72-47a0-80b0-ea7cb4a0dfa2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.21-15.30.58:357][702]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.21-15.30.58:359][702]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.21-15.30.58:359][702]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.21-15.30.58:359][702]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.21-15.30.58:359][702]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.21-15.30.58:360][702]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.21-15.30.58:360][702]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.21-15.30.58:360][702]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.21-15.30.58:362][702]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.21-15.30.58:362][702]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.21-15.30.58:362][702]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.21-15.30.58:362][702]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.21-15.30.58:363][702]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.21-15.30.58:363][702]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.21-15.30.58:363][702]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.21-15.30.58:363][702]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.21-15.30.58:363][702]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.21-15.30.58:363][702]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.21-15.30.58:363][702]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.21-15.30.58:372][702]LogExit: Exiting.
+[2018.05.21-15.30.58:414][702]Log file closed, 05/21/18 17:30:58
