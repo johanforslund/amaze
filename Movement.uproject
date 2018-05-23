@@ -1,12 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{7D69BE1D-4622-9307-098B-D099121FBA86}",
+	"EngineAssociation": "4.19",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "DatasmithCADImporter",
-			"Enabled": true
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		},
 		{
 			"Name": "DatasmithImporter",
